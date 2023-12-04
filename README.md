@@ -10,8 +10,7 @@ Deepfakes (portmanteau of "deep learning" and "fake") are synthetic media that h
 ディープフェイク（deepfake）は、「深層学習」と「偽物」を組み合わせた混成語で、人工知能にもとづく人物画像合成の技術を指す。「敵対的生成ネットワーク（GANs）」と呼ばれる機械学習技術を使用して、既存の画像と映像を、元となる画像または映像に重ね合わせて（スーパーインポーズ）、結合することで生成される。 既存と元の映像を結合することにより、実際には起こっていない出来事で行動している1人あるいは複数人の偽の映像が生み出されることとなる。
 
 *Image 1: Deepfakeの悪用--番組に似せた岸田首相の偽動画拡散 日本テレビが注意呼びかけ)*
-![Image text](https://github.com/Joe-997/Proactive-Deepfake-Defense/blob/main/img/3.png)
-[![Image text]番組に似せた岸田首相の偽動画拡散 日本テレビが注意呼びかけ](https://www3.nhk.or.jp/news/html/20231104/k10014247171000.html)
+[![Image text](https://github.com/Joe-997/Proactive-Deepfake-Defense/blob/main/img/3.png)](https://www3.nhk.or.jp/news/html/20231104/k10014247171000.html)
 
 
 
