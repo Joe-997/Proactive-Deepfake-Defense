@@ -14,6 +14,8 @@ Deepfakes (portmanteau of "deep learning" and "fake") are synthetic media that h
 [![Image text]番組に似せた岸田首相の偽動画拡散 日本テレビが注意呼びかけ](https://www3.nhk.or.jp/news/html/20231104/k10014247171000.html)
 
 
+
+
 # 2. 研究内容
 課題：近年、GANs、VAEs、Diffusionモデルなどの画像生成技術は前例のない成長を遂げ、超リアルな画像出力をもたらしています。しかし、これには誤情報の拡散やデジタル詐欺といった課題が伴っています。
 <br>
