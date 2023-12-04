@@ -2,10 +2,13 @@
 
 This is a repository that explain my research.
 # 1. Deepfakeとは
-    Deepfakes (portmanteau of "deep learning" and "fake") are synthetic media that have been digitally manipulated to replace one person's likeness convincingly with that of another. Deepfakes are the manipulation of facial appearance through deep generative methods.
+
+Deepfakes (portmanteau of "deep learning" and "fake") are synthetic media that have been digitally manipulated to replace one person's likeness convincingly with that of another. Deepfakes are the manipulation of facial appearance through deep generative methods.
+
 <br>
-    ディープフェイク（deepfake）は、「深層学習（deep learning）」と「偽物（fake）」を組み合わせた混成語（かばん語）で、人工知能にもとづく人物画像合成の技術を指す。「敵対的生成ネットワーク（GANs）」と呼ばれる機械学習技術を使用して、既存の画像と映像を、元となる画像または映像に重ね合わせて（スーパーインポーズ）、結合することで生成される[2]。 既存と元の映像を結合することにより、実際には起こっていない出来事で行動している1人あるいは複数人の偽の映像が生み出されることとなる。
-<br>
+
+ディープフェイク（deepfake）は、「深層学習」と「偽物」を組み合わせた混成語で、人工知能にもとづく人物画像合成の技術を指す。「敵対的生成ネットワーク（GANs）」と呼ばれる機械学習技術を使用して、既存の画像と映像を、元となる画像または映像に重ね合わせて（スーパーインポーズ）、結合することで生成される。 既存と元の映像を結合することにより、実際には起こっていない出来事で行動している1人あるいは複数人の偽の映像が生み出されることとなる。
+
 <br>
 *Image 1: Deepfakeの悪用*
 <br>
